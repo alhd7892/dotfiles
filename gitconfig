@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexandrehvrd@gmail.com
+	name = Alexandre Havard
